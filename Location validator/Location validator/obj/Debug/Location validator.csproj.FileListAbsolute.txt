@@ -1,0 +1,19 @@
+C:\Users\Zabar\source\repos\Location validator\Location validator\bin\Debug\Location validator.exe.config
+C:\Users\Zabar\source\repos\Location validator\Location validator\bin\Debug\Location validator.exe
+C:\Users\Zabar\source\repos\Location validator\Location validator\bin\Debug\Location validator.pdb
+C:\Users\Zabar\source\repos\Location validator\Location validator\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\Zabar\source\repos\Location validator\Location validator\bin\Debug\ExcelDataReader.dll
+C:\Users\Zabar\source\repos\Location validator\Location validator\bin\Debug\ExcelDataReader.pdb
+C:\Users\Zabar\source\repos\Location validator\Location validator\bin\Debug\ExcelDataReader.xml
+C:\Users\Zabar\source\repos\Location validator\Location validator\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\Zabar\source\repos\Location validator\Location validator\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\Zabar\source\repos\Location validator\Location validator\obj\Debug\Location_validator.Form1.resources
+C:\Users\Zabar\source\repos\Location validator\Location validator\obj\Debug\Location_validator.Properties.Resources.resources
+C:\Users\Zabar\source\repos\Location validator\Location validator\obj\Debug\Location validator.csproj.GenerateResource.cache
+C:\Users\Zabar\source\repos\Location validator\Location validator\obj\Debug\Location validator.csproj.CoreCompileInputs.cache
+C:\Users\Zabar\source\repos\Location validator\Location validator\obj\Debug\Location validator.csproj.CopyComplete
+C:\Users\Zabar\source\repos\Location validator\Location validator\obj\Debug\Location validator.exe
+C:\Users\Zabar\source\repos\Location validator\Location validator\obj\Debug\Location validator.pdb
+C:\Users\Zabar\source\repos\Location validator\Location validator\bin\Debug\Z.Dapper.Plus.dll
+C:\Users\Zabar\source\repos\Location validator\Location validator\bin\Debug\Z.Dapper.Plus.xml
+C:\Users\Zabar\source\repos\Location validator\Location validator\obj\Debug\Location validator.csprojAssemblyReference.cache
